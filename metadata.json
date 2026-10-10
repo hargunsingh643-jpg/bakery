@@ -1,0 +1,6 @@
+{
+  "name": "Urban Brew Café & Bakery",
+  "description": "Your Daily Dose of Good Coffee. Cozy artisanal bakery and specialty coffee shop serving fresh pastries, handcrafted sourdough, and gourmet beverages in New Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
